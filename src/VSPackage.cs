@@ -4,10 +4,9 @@ using Microsoft.VisualStudio.Shell;
 
 namespace WebEssentials
 {
-    [Guid("f168228c-63f6-4db0-b426-43c30e9d1fc7")]
+    [Guid("7222ad82-a34e-4c8e-ae3b-0a2714d5ffd8")]
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [InstalledProductRegistration("#110", "#112", Vsix.Version, IconResourceID = 400)]
-    [ProvideMenuResource("Menus.ctmenu", 1)]
+    [InstalledProductRegistration(Vsix.Name, Vsix.Description, Vsix.Version)]
     public sealed class WebEssentialsPackage : AsyncPackage
     {
     }
