@@ -54,7 +54,7 @@ interest.
 ## Suggest new extensions
 If you know of any good extensions that you think would benefit web
 developers, then log an issue with the suggestion on the 
-[GitHub issue tracker](https://github.com/madskristensen/WebExtensionPack/issues).
+[GitHub issue tracker](https://github.com/madskristensen/WebEssentials2019/issues).
 
 ## Contribute
 Check out the [contribution guidelines](.github/CONTRIBUTING.md)
