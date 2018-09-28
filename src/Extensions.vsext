@@ -76,6 +76,10 @@
     {
       "vsixId": "148ffa77-d70a-407f-892b-9ee542346862",
       "name": "Web Compiler"
+    },
+    {
+      "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf",
+      "name": "ZenCoding"
     }
   ]
 }

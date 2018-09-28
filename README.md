@@ -1,4 +1,4 @@
-  # Web Essentials 2017
+  # Web Essentials 2019
 
 [![Build status](https://ci.appveyor.com/api/projects/status/d99l7mvb0wcf5523?svg=true)](https://ci.appveyor.com/project/madskristensen/webessentials2017)
 
@@ -11,8 +11,6 @@ or get the
 
 The easiest way to set up Visual Studio for the ultimate web development experience. Requires Visual Studio 2017 Update 8 or newer.
 
-See the [change log](CHANGELOG.md) for changes and road map.
-
 ## Extensions
 After installing the Web Essentials and restarting
 Visual Studio, the following extensions will be installed:
@@ -21,21 +19,18 @@ Visual Studio, the following extensions will be installed:
 - [Browser Reload on Save](https://visualstudiogallery.msdn.microsoft.com/46eef4d9-045b-4596-bd7f-eee980bb5450)
 - [Browser Sync](https://visualstudiogallery.msdn.microsoft.com/5741a548-5179-4a77-ad96-fca71535774d)
 - [Bundler & Minifier](https://visualstudiogallery.msdn.microsoft.com/9ec27da7-e24b-4d56-8064-fd7e88ac1c40)
-- [CSS Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSTools)
+<!--- [CSS Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSTools)-->
 - [Editor Enhancements](https://visualstudiogallery.msdn.microsoft.com/4f64e542-3772-4136-8f87-0113441c7aa1)
 - [File Icons](https://visualstudiogallery.msdn.microsoft.com/5e1762e8-a88b-417c-8467-6a65d771cc4e)
 - [File Nesting](https://visualstudiogallery.msdn.microsoft.com/3ebde8fb-26d8-4374-a0eb-1e4e2665070c)
-- [HTML Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlTools)
+<!--- [HTML Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlTools)-->
 - [Image Sprites](https://visualstudiogallery.msdn.microsoft.com/8bb845e9-5717-4eae-aed3-1fdf6fe5819a)
 - [Image Optimizer](https://visualstudiogallery.msdn.microsoft.com/a56eddd3-d79b-48ac-8c8f-2db06ade77c3)
 - [Markdown Editor](https://visualstudiogallery.msdn.microsoft.com/eaab33c3-437b-4918-8354-872dfe5d1bfe)
 - [Open Command Line](https://visualstudiogallery.msdn.microsoft.com/4e84e2cf-2d6b-472a-b1e2-b84932511379)
 - [Package Installer](https://visualstudiogallery.msdn.microsoft.com/753b9720-1638-4f9a-ad8d-2c45a410fd74)
 - [Package Security Alerts](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PackageSecurityAlerts)
-- [Project File Tools](https://aka.ms/projfiletools)
-- [Razor Language Service](https://aka.ms/razorlangsvc)
-- [Syntax Highlighting Pack](https://visualstudiogallery.msdn.microsoft.com/d92fd742-bab3-4314-b866-50b871d679ee)
-- [Vue.js Pack 2017](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack-18329)
+<!--- [Project File Tools](https://aka.ms/projfiletools)-->
 - [Web Accessibility Checker](https://visualstudiogallery.msdn.microsoft.com/3aabefab-1681-4fea-8f95-6a62e2f0f1ec)
 - [Web Compiler](https://visualstudiogallery.msdn.microsoft.com/3b329021-cd7a-4a01-86fc-714c2d05bb6c)
 - [ZenCoding](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ZenCoding)
