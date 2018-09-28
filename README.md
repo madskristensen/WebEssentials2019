@@ -1,6 +1,6 @@
   # Web Essentials 2019
 
-[![Build status](https://ci.appveyor.com/api/projects/status/d99l7mvb0wcf5523?svg=true)](https://ci.appveyor.com/project/madskristensen/webessentials2017)
+[![Build status](https://ci.appveyor.com/api/projects/status/3npo9507j44qgiea?svg=true)](https://ci.appveyor.com/project/madskristensen/webessentials2019)
 
 Download the extension at the
 [VS Marketplace](https://marketplace.visualstudio.com/vsgallery/a5a27916-2099-4c5b-a3ff-6a46e4b01298)
