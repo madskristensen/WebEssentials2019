@@ -58,6 +58,10 @@
       "name": "Package Security Alerts"
     },
     {
+      "vsixId": "SvgViewer.7a08d0d4-985c-4415-93d5-ddd9135d8f4f",
+      "name": "SVG Viewer"
+    },
+    {
       "vsixId": "25a79d25-0fff-4748-afaa-3a67ed116bc9",
       "name": "Web Accessibility Checker"
     },
