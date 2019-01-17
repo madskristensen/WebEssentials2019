@@ -16,7 +16,7 @@ after_test:
 
   
 before_deploy:
-  - ps: Vsix-CreateChocolatyPackage -packageId addnewfile
+  - ps: Vsix-CreateChocolatyPackage -packageId svgviewer
 
 deploy:
   - provider: Environment
