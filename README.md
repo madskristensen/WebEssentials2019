@@ -19,7 +19,7 @@ Visual Studio, the following extensions will be installed:
 - [Browser Reload on Save](https://visualstudiogallery.msdn.microsoft.com/46eef4d9-045b-4596-bd7f-eee980bb5450)
 - [Browser Sync](https://visualstudiogallery.msdn.microsoft.com/5741a548-5179-4a77-ad96-fca71535774d)
 - [Bundler & Minifier](https://visualstudiogallery.msdn.microsoft.com/9ec27da7-e24b-4d56-8064-fd7e88ac1c40)
-<!--- [CSS Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CSSTools)-->
+- [CSS Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CssTools2019)
 - [Editor Enhancements](https://visualstudiogallery.msdn.microsoft.com/4f64e542-3772-4136-8f87-0113441c7aa1)
 - [File Icons](https://visualstudiogallery.msdn.microsoft.com/5e1762e8-a88b-417c-8467-6a65d771cc4e)
 - [File Nesting](https://visualstudiogallery.msdn.microsoft.com/3ebde8fb-26d8-4374-a0eb-1e4e2665070c)

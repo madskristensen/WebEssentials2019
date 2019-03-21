@@ -18,6 +18,10 @@
       "name": "Bundler & Minifier"
     },
     {
+      "vsixId": "1c63270f-485d-4810-99b8-e9d9de82610c",
+      "name": "CSS Tools 2019"
+    },
+    {
       "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e",
       "name": "Editor Enhancements"
     },
