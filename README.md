@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/3npo9507j44qgiea?svg=true)](https://ci.appveyor.com/project/madskristensen/webessentials2019)
 
 Download the extension at the
-[VS Marketplace](https://marketplace.visualstudio.com/vsgallery/a5a27916-2099-4c5b-a3ff-6a46e4b01298)
+[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019)
 or get the
 [nightly build](http://vsixgallery.com/extension/509fc133-d9a6-4cf7-a558-e00fd11e0f9f/)
 
