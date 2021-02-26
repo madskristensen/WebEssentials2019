@@ -24,6 +24,7 @@ Visual Studio, the following extensions will be installed:
 - [File Icons](https://visualstudiogallery.msdn.microsoft.com/5e1762e8-a88b-417c-8467-6a65d771cc4e)
 - [File Nesting](https://visualstudiogallery.msdn.microsoft.com/3ebde8fb-26d8-4374-a0eb-1e4e2665070c)
 - [Glyphfriend](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019)
+- [HTML Tools 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlTools2019)
 - [Image Sprites](https://visualstudiogallery.msdn.microsoft.com/8bb845e9-5717-4eae-aed3-1fdf6fe5819a)
 - [Image Optimizer](https://visualstudiogallery.msdn.microsoft.com/a56eddd3-d79b-48ac-8c8f-2db06ade77c3)
 - [Markdown Editor](https://visualstudiogallery.msdn.microsoft.com/eaab33c3-437b-4918-8354-872dfe5d1bfe)
